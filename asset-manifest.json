@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/coinlore.github.io/static/css/main.e4912205.css",
+    "main.js": "/coinlore.github.io/static/js/main.9f8de0ad.js",
+    "static/js/508.f6e65ddb.chunk.js": "/coinlore.github.io/static/js/508.f6e65ddb.chunk.js",
+    "static/media/primeicons.svg": "/coinlore.github.io/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/coinlore.github.io/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/coinlore.github.io/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/coinlore.github.io/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/coinlore.github.io/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/color.png": "/coinlore.github.io/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/coinlore.github.io/index.html",
+    "main.e4912205.css.map": "/coinlore.github.io/static/css/main.e4912205.css.map",
+    "main.9f8de0ad.js.map": "/coinlore.github.io/static/js/main.9f8de0ad.js.map",
+    "508.f6e65ddb.chunk.js.map": "/coinlore.github.io/static/js/508.f6e65ddb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4912205.css",
+    "static/js/main.9f8de0ad.js"
+  ]
+}
